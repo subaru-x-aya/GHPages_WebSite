@@ -1,7 +1,7 @@
 ---
 title: "試作HP"
 author: subary-x-
-permalink: /
+permalink: /New
 ---
 
 
